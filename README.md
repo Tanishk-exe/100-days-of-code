@@ -1,76 +1,92 @@
-# 100 Days of AI / ML
+# 100 Days of AI / ML 🚀
 
-Hi, I’m Tanishk.  
-This repository documents my **#100DaysOfCode journey focused on Artificial Intelligence and Machine Learning**.
+Hi, I'm **Tanishk**.
 
-I started this challenge to build strong fundamentals in AI/ML, practice consistently, and work on real datasets and projects that reflect practical understanding rather than only theory.
+This repository documents my **#100DaysOfCode journey focused on Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing**.
 
----
+I started this challenge to build strong fundamentals, stay consistent, and learn by building real projects instead of only consuming theory.
 
-## What This Repository Contains
-
-This repo is a structured record of my daily and phase-wise learning, including:
-
-- Python programming fundamentals
-- Data analysis using NumPy and Pandas
-- Data visualization with Matplotlib
-- Supervised Machine Learning  
-- Regression
-- Classification
-- Unsupervised Machine Learning  
-- Clustering techniques
-- Dimensionality Reduction  
-- Principal Component Analysis (PCA)
-- Practice on real-world datasets
-- Mini and end-to-end machine learning projects
-- and in progress to Deep Learning
+Over the course of 100 days, I explored various AI/ML concepts, worked on real-world datasets, and developed projects that strengthened both my technical skills and problem-solving abilities.
 
 ---
 
-## Repository Structure
+## What I Learned
 
-- **Day 01–34** – Consolidated foundational learning grouped by topics  
-- **Day 35 onward** – Daily progress updates with notebooks, notes, and experiments  
-- **Projects** – Machine learning projects built using real datasets such as MNIST and Kaggle datasets  
-- **Resources / Notes** – Important references and summaries created during learning
+### Machine Learning
 
+* Data Preprocessing
+* Regression
+* Classification
+* Clustering
+* Dimensionality Reduction
+* Principal Component Analysis (PCA)
+* Model Evaluation
 
-## Projects Included
+### Deep Learning
 
-Some of the projects and practice work in this repository include:
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* Transfer Learning
+* Fine Tuning
+* Feature Extraction
 
-- Handwritten Digit Classification (MNIST)
-- Classification models on Kaggle datasets
-- Supervised and Unsupervised ML experiments
-- Model evaluation and comparison exercises
+### Computer Vision
 
+* Image Classification
+* Transfer Learning with Pretrained Models
+* Dog Breed Classification
+* Dogs vs Cats Classification
+
+### Natural Language Processing
+
+* Email Spam Classification
+* Sentiment Analysis
+* Word Embeddings (Word2Vec)
+
+---
+
+## Projects Built
+
+* Credit Card Churn Prediction (ANN)
+* Graduate Admission Prediction (ANN)
+* MNIST Digit Classification (ANN)
+* MNIST Digit Classification (CNN)
+* Dogs vs Cats Image Classification
+* Dog Breed Classification
+* Transfer Learning Projects
+* Heart Disease Classification Project
+* Email Spam Classifier
+* IMDB Review Sentiment Analysis
+* Amazon Review Sentiment Analysis
+
+---
 
 ## Tools & Technologies
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook / Google Collab
-
-
-## Goal of This Journey
-
-The objective of this challenge is to:
-
-- Build consistency in learning
-- Strengthen core AI/ML concepts
-- Gain hands-on experience with datasets
-- Develop project-building skills
-- Prepare for internships and real-world applications in AI/ML
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* TensorFlow / Keras
+* Jupyter Notebook
+* Google Colab
 
 ---
 
-## Status
+## Key Takeaways
 
-Currently in progress and updated regularly with new learning, experiments, and projects.
+* Consistency beats motivation.
+* Learning by building is the fastest way to improve.
+* Debugging is part of the journey.
+* Small daily progress compounds into significant growth.
 
 ---
+
+## Challenge Status
+
+✅ 100 Days Completed
+
+> Started with curiosity. Finished with a much stronger foundation in AI, Machine Learning, Deep Learning, Computer Vision, and NLP.
 
 Thank you for visiting this repository.
