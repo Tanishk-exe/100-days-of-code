@@ -1,4 +1,4 @@
-# 100 Days of AI / ML 🚀
+# 100 Days of AI / ML 
 
 Hi, I'm **Tanishk**.
 
